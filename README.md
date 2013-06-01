@@ -1,0 +1,2 @@
+# WWPRSD WebStart #
+In May 2013, the [West Windsor-Plainsboro Regional School District](http://www.ww-p.org/) held a competition to design a new start page for the school intranet. The criteria set forth required the district logo, an embedded Google Search and a set of eight links to be present. This was my submission for the contest.
